@@ -20,6 +20,10 @@ During the EDA process, the following steps were performed:
 - Data Cleaning: Checked for missing values and duplicate
 - Added a Revenue column
 
+# Descriptive statistics
+![Screenshot 2025-01-30 040748](https://github.com/user-attachments/assets/83c82307-abc8-4a44-ad63-7eab790c9745)
+
+
 ## Report
 ![Screenshot 2025-01-30 030455](https://github.com/user-attachments/assets/29bd2921-a7b6-4dc7-a8d3-511bc0b43921)
 
