@@ -1,6 +1,12 @@
 # Marketing_Insight_Report
 
+### Leveraging Python and Power BI to Analyze Sales Trends and Customer Preferences for Smarter Retail Decisions Using Dummy Data
+
+
 ![image](https://github.com/user-attachments/assets/200afb5d-d649-4336-9dc9-cd0d004ec285)
+
+
+Disclaimer⚠️: This project uses dummy data to analyze Superstore's sales performance. It showcases how Python and Power BI can be used to identify trends, customer preferences, and growth opportunities. No real or sensitive information is included.
 
 ## Business Overview
 Superstore aims to conduct a comprehensive evaluation of sales performance. This analysis will involve examining key metrics, identifying trends, and understanding market dynamics to gain insights into overall sales effectiveness. The findings will be instrumental in informing future strategies and optimizing business decisions.
