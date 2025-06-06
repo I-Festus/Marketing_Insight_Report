@@ -1,4 +1,7 @@
 # Marketing_Insight_Report
+
+![image](https://github.com/user-attachments/assets/200afb5d-d649-4336-9dc9-cd0d004ec285)
+
 ## Business Overview
 Superstore aims to conduct a comprehensive evaluation of sales performance. This analysis will involve examining key metrics, identifying trends, and understanding market dynamics to gain insights into overall sales effectiveness. The findings will be instrumental in informing future strategies and optimizing business decisions.
 
