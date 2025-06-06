@@ -116,11 +116,8 @@ South region has the lowest sales (392K) yet outperforms Central in profit (47K)
 - Targeted marketing, pricing strategies, and operational improvements can boost growth.
 - Optimizing shipping, regional focus, and product performance will enhance overall profitability.
 
-# Contact
+# Thank you
 
-- Linkedln: http://www.linkedin.com/in/festus-ijabani-159585293
-- Email: ijabanifestus01@gmail.com
+For more information, you can contact me
 
-## HNG INTERN
-- https://hng12.slack.com/archives/C08943KJ4TV/p1738151410361569
-- https://hng12.slack.com/archives/C08943KJ4TV/p1738151410361569
+![1744659](https://github.com/user-attachments/assets/aaf89a3e-ab31-402f-b9ef-0f5abde42339)
